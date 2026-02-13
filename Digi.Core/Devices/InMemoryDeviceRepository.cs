@@ -7,7 +7,8 @@ public sealed class  InMemoryDeviceRepository : IDeviceRepository
     private static readonly List<Device> _db =
     [
         new(1, "Tracker A"),
-        new(2, "Tracker B")
+        new(2, "Tracker B"),
+        new(3, "Tracker C")
     ];
 
     public Task<Device> GetDeviceIdAsync(int id, CancellationToken ct)
