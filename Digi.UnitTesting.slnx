@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Digi.Api/Digi.Api.csproj" />
+  <Project Path="Digi.Core/Digi.Core.csproj" />
+  <Project Path="Digi.Infrastructure/Digi.Infrastructure.csproj" />
+  <Project Path="Digi.Tests.Integration/Digi.Tests.Integration.csproj" />
+  <Project Path="Digi.Tests.Unit/Digi.Tests.Unit.csproj" />
+</Solution>
