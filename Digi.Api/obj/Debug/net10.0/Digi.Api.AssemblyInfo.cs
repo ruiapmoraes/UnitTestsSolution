@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Digi.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2d8629ca0cfb7c9906edff0e17be47b7333fd45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+868981756c9cbed925cb69482328ee099362c9f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Digi.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Digi.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
